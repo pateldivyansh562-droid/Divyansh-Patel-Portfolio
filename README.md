@@ -3,8 +3,8 @@
 A modern, fully responsive dark-galaxy themed personal portfolio built using HTML, CSS, and JavaScript.
 It showcases my skills, projects, certifications, and contact details in a clean and animated UI.
 
-Live Demo: (Add your GitHub Pages link here)
-Repository: (add repo link)
+
+Repository: (https://github.com/pateldivyansh562-droid/Divyansh-Patel-Portfolio.git)
 
 🚀 Features
 🌙 Modern UI + Dark Galaxy Theme
