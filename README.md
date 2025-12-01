@@ -97,7 +97,7 @@ Colorful icon cards and 6 project showcases.
 
 Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone gh repo clone pateldivyansh562-droid/Divyansh-Patel-Portfolio
 
 
 Open the folder
